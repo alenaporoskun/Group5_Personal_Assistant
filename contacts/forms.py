@@ -1,5 +1,5 @@
 from django import forms
-from .models import Contact
+from .models import Contact, Note
 
 class ContactForm(forms.ModelForm):
     class Meta:
@@ -13,3 +13,10 @@ class ContactForm(forms.ModelForm):
                 'invalid': "Please enter a valid email address.",
             },
         }
+
+class NoteForm(forms.ModelForm):
+    tags = forms.CharField(widget=forms.TextInput(attrs={'placeholder': 'Введите теги через запятую'}), required=False)
+    class Meta:
+        model = Note
+        fields = ['title', 'content', 'tags']
+        
