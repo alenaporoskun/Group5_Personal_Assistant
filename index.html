@@ -1,0 +1,18 @@
+{% extends "contacts/base.html" %}
+
+{% block content %}
+    <!-- NEWS header -->
+    <h2>NEWS</h2>
+
+    <!-- News filter form -->
+    <form action="" method="GET">
+        <input type="text" name="keyword" placeholder="Enter keyword">
+        <button type="submit">Search</button>
+    </form>
+
+    <!-- Block for displaying weather forecast -->
+    <div class="weather">
+        {% include 'weather.html' %}
+    </div>
+
+{% endblock %}
