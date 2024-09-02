@@ -69,13 +69,14 @@ Terminal:
 (env)$ poetry run python manage.py runserver   
 ```
 
- Open `http://127.0.0.1:8000/` in a browser. You should see the main page.
-
-![Screenshot1](screenshots/scr1.png)
-![Screenshot2](screenshots/scr2.png)
-![Screenshot3](screenshots/scr3.png)
-![Screenshot4](screenshots/scr4.png)
-![Screenshot5](screenshots/scr5.png)
-![Screenshot6](screenshots/scr6.png)
-![Screenshot7](screenshots/scr7.png)
+Open `http://127.0.0.1:8000/` in a browser. You should see the main page.
+   
+![Screenshot0](screenshots/scr0.png)  
+![Screenshot1](screenshots/scr1.png)  
+![Screenshot2](screenshots/scr2.png)  
+![Screenshot3](screenshots/scr3.png)   
+![Screenshot4](screenshots/scr4.png)  
+![Screenshot5](screenshots/scr5.png)  
+![Screenshot6](screenshots/scr6.png)  
+![Screenshot7](screenshots/scr7.png)  
      
