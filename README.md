@@ -72,11 +72,19 @@ Terminal:
 Open `http://127.0.0.1:8000/` in a browser. You should see the main page.
    
 ![Screenshot0](screenshots/scr0.jpg)  
+
 ![Screenshot1](screenshots/scr1.jpg)  
+
 ![Screenshot2](screenshots/scr2.jpg)  
+
 ![Screenshot3](screenshots/scr3.jpg)   
+
 ![Screenshot4](screenshots/scr4.jpg)  
+
 ![Screenshot5](screenshots/scr5.jpg)  
+
 ![Screenshot6](screenshots/scr6.jpg)  
+
 ![Screenshot7](screenshots/scr7.jpg)  
+
      
