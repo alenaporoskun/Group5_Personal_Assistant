@@ -85,6 +85,6 @@ Open `http://127.0.0.1:8000/` in a browser. You should see the main page.
 
 ![Screenshot6](screenshots/scr6.jpg)  
 
-![Screenshot7](screenshots/scr7.jpg)  
+![Screenshot7](screenshots/src7.jpg)  
 
      
