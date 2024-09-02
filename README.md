@@ -63,9 +63,10 @@ CLOUDINARY_API_SECRET=secret
   
 Terminal:
 ```
-(env)$ docker-compose up -d 
-(env)$ python manage.py migrate
-(env)$ python manage.py runserver   
+(env)$ docker-compose up -d
+(env)$ poetry run python manage.py makemigrations
+(env)$ poetry run python manage.py migrate
+(env)$ poetry run python manage.py runserver   
 ```
 
  Open `http://127.0.0.1:8000/` in a browser. You should see the main page.
