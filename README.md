@@ -67,4 +67,4 @@ CLOUDINARY_API_SECRET=secret
 (env)$ python manage.py runserver   
 ```
 
- Open `[http://localhost:8000](http://127.0.0.1:8000/)` in a browser. You should see the main page.
+ Open `http://127.0.0.1:8000/` in a browser. You should see the main page.
