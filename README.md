@@ -62,14 +62,9 @@ CLOUDINARY_API_SECRET=secret
 ```
 
 ```
-First terminal:
-(env)$ python docker-compose up
-```
-
-```
-Second terminal:
+(env)$ docker-compose up -d 
 (env)$ python manage.py migrate
 (env)$ python manage.py runserver   
 ```
 
- Open `http://localhost:8000` in a browser. You should see the main page.
+ Open `[http://localhost:8000](http://127.0.0.1:8000/)` in a browser. You should see the main page.
