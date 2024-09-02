@@ -60,7 +60,8 @@ CLOUDINARY_NAME=name
 CLOUDINARY_API_KEY=key
 CLOUDINARY_API_SECRET=secret
 ```
-
+  
+Terminal:
 ```
 (env)$ docker-compose up -d 
 (env)$ python manage.py migrate
