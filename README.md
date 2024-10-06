@@ -2,6 +2,9 @@
 A personal web-application built using the Django web framework.
 
 The application allows you to store your contacts, adding notes, processing your files and getting information about weather and latest news.  
+
+[The latest version of the project has been deployed on Koyeb.](https://personal-assistant.koyeb.app/)
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
